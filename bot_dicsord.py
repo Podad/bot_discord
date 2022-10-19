@@ -6,7 +6,7 @@ import json
 intents = discord.Intents().all()
 client = discord.Client(intents=intents)
 
-token = "OTIxNDUzNDQ5Mjc3NzYzNTg1.GLJRJe.vunsL7LZ4THiz82wGQ3oEsORWiJrRmnIRhf3W8"
+token = "YOUR-TOKEN"
 
 # slash command discord for meme
 
